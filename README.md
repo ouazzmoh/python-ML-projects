@@ -46,7 +46,7 @@ Finding efficiently a pair of points in a 2D plan. We explore 3 methods and benc
 
 ### Introductory Research Project: Optimization of Immunization 
 
-This involves modeling the population as a scale-free network, simulating the propagation of the population in the network, and using different vaccination techniques to determine the threshold for percolation.
+This involves modeling the population as a scale-free network, simulating the propagation of an epidemic in the network, and using different vaccination techniques to determine the threshold for percolation.
 
 ### Approximate PI
 
