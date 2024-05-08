@@ -1,3 +1,5 @@
+This repository contains some interesting python and machine learning projects that I have worked on during my studies.
+
 # Python and Deep Learning Projects
 
 ## AI
